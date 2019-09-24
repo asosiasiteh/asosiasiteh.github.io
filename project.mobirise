@@ -21,20 +21,21 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#2e2e2e"
+        "#2e2e2e",
+        "#494949"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.6",
     "siteFonts": [],
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.10.6"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "INDONESIA TEA COMPETITION 2019",
+        "title": "NATIONAL TEA COMPETITION 2019",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -68,13 +69,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00755d"
+              "background": "#2f2f2f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#009979!important"
+              "background": "#414141!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#00a885"
+              "background": "#494949"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -97,13 +98,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#00a885",
+            "bgColor": "#494949",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PENDAFTARAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\">DAFTAR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/f6JXTkE487LsxmLh7\">KONFIRMASI BAYAR</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">TUJUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-c\">HADIAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-a\">SYARAT DAN KETENTUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-e\">KONTAK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PENDAFTARAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\">DAFTAR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/f6JXTkE487LsxmLh7\">KONFIRMASI BAYAR</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">TUJUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-c\">HADIAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-a\">SYARAT DAN KETENTUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-e\">KONTAK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -147,8 +148,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "INDONESIA TEA COMPETITION 2019",
-          "text": "Senin - Selasa, 7 dan 8 Oktober 2019<br>Jalan Ir. H. Juanda No. 107 Bandung 40132<br>",
+          "title": "NATIONAL TEA<br>COMPETITION 2019",
+          "text": "<span style=\"font-style: normal;\">Senin - Selasa, 7 dan 8 Oktober 2019<br>Jalan Ir. H. Juanda No. 107 Bandung 40132</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -229,7 +230,7 @@
             "bgColor": "#fff"
           },
           "title": "HADIAH",
-          "meta": "Pemenang akan mendapatkan sertifikat yang ditanda tangani<br>Pejabat Tinggi Negara\nRepublik Indonesia dan Asosiasi Teh Indonesia",
+          "meta": "Pemenang akan mendapatkan <b>Sertifikat </b>yang ditanda tangani<br>Pejabat Tinggi Negara Republik Indonesia, <br>Asosiasi Teh Indonesia<br>Serta promosi produk di event <b>Nasional </b>dan <b>Internasional</b>",
           "_tags": [
             "Theme"
           ],
@@ -247,13 +248,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "DENGAN &nbsp;JURI INDEPENDEN",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "INTERNASIONAL DAN DOMESTIK",
           "_tags": [
             "Theme"
           ],
@@ -323,7 +324,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Mengenai Peserta",
+          "title": "MENGENAI PESERTA",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -365,7 +366,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Mengenai TEH",
+          "title": "MENGENAI TEH",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -379,7 +380,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Teh yang dikirimkan untuk dinilai sebanyak 500 gram/sampel dan harus mencantumkan\n</p><p>informasi :\n</p><p>1. Nama Pengirim\n</p><p>2. Lokasi Kebun\n</p><p>3. Jenis Varietas\n</p><p>4. Ketinggian Tempat\n</p><p>5. Proses Pasca Panen\n</p><p>6. Tahun Produksi\n</p><p>7. Sertifikasi dan keterangan lain yang diperlukan.\n</p><p>\n</p><p>Sampel sudah diterima panitia paling lambat tanggal 4 Oktober 2019 di Sekretariat\n</p><p>Asosiasi Teh Indonesia Jl. Ir. H. Juanda No. 107 Bandung 40132.</p>",
+          "text": "<p>Teh yang dikirimkan untuk dinilai sebanyak 500 gram/sampel dan harus mencantumkan\n</p><p>informasi :\n</p><p>1. Nama Pengirim\n</p><p>2. Lokasi Kebun\n</p><p>3. Jenis Varietas\n</p><p>4. Ketinggian Tempat\n</p><p>5. Proses Pasca Panen\n</p><p>6. Tahun Produksi\n</p><p>7. Sertifikasi dan keterangan lain yang diperlukan.</p><p><br></p><p>\n</p><p>\n</p><p>Sampel sudah diterima panitia paling lambat tanggal <b>4 Oktober 2019</b> di</p><p>Sekretariat&nbsp;<span style=\"font-size: 1.07rem;\">Asosiasi Teh Indonesia Jl. Ir. H. Juanda No. 107 Bandung 40132.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -402,7 +403,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Biaya Pendaftaran",
+          "title": "BIAYA PENDAFTARAN",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -416,12 +417,25 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Biaya pendaftaran kompetisi Rp. 250.000 untuk setiap jenis sampel teh yang dikirim.\n</p><p>\n</p><p>Transfer biaya keikutsertaan mohon dilakukan ke rekening :</p><p><br></p><p>\n</p><p>Asosiasi Teh Indonesia, \n</p><p>Bank Mandiri Cabang Bandung Asia Afrika Jln. Asia Afrika No.118 Bandung\n</p><p>Nomor Rekening 130-00-99043351.\n</p><p>\n</p><p><br></p><p>(Nama peserta &amp; lomba harus dicantumkan di bukti transfer).\n</p>",
+          "text": "<p>Biaya pendaftaran kompetisi <b>Rp. 250.000</b> untuk <b>setiap jenis sampel teh</b> yang dikirim.\n</p><p>\n</p><p>Transfer biaya keikutsertaan mohon dilakukan ke rekening :</p><p><br></p><p>\n</p><p>Asosiasi Teh Indonesia, \n</p><p>Bank Mandiri Cabang Bandung Asia Afrika Jln. Asia Afrika No.118 Bandung\n</p><p>Nomor Rekening <b>130-00-99043351</b>.\n</p><p>\n</p><p><br></p><p>(Nama peserta &amp; lomba harus dicantumkan di bukti transfer).\n</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">KONFIRMASI PEMBAYARAN</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-l"
         },
         {
           "_params": {
