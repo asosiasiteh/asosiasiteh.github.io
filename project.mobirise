@@ -176,6 +176,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -210,7 +214,9 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-subtitle": {
               "font-size": "22px"
@@ -234,6 +240,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -261,6 +271,11 @@
             },
             ".lead P": {
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -295,6 +310,11 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -333,6 +353,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -366,6 +390,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -374,7 +402,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Biaya pendaftaran",
+          "title": "Biaya Pendaftaran",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -388,7 +416,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Biaya pendaftaran kompetisi Rp. 250.000 untuk setiap jenis sampel teh yang dikirim.\r</p><p>\r</p><p>Transfer biaya keikutsertaan mohon dilakukan ke rekening :\r</p><p>Asosiasi Teh Indonesia, \r</p><p>Bank Mandiri Cabang Bandung Asia Afrika Jln. Asia Afrika No.118 Bandung\r</p><p>Nomor Rekening 130-00-99043351.\r</p><p>\r</p><p>(Nama peserta &amp; lomba harus dicantumkan di bukti transfer).\r</p>",
+          "text": "<p>Biaya pendaftaran kompetisi Rp. 250.000 untuk setiap jenis sampel teh yang dikirim.\n</p><p>\n</p><p>Transfer biaya keikutsertaan mohon dilakukan ke rekening :</p><p><br></p><p>\n</p><p>Asosiasi Teh Indonesia, \n</p><p>Bank Mandiri Cabang Bandung Asia Afrika Jln. Asia Afrika No.118 Bandung\n</p><p>Nomor Rekening 130-00-99043351.\n</p><p>\n</p><p><br></p><p>(Nama peserta &amp; lomba harus dicantumkan di bukti transfer).\n</p>",
           "_tags": [
             "Theme"
           ],
