@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.6",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 25,
     "versionPublish": "4.10.6"
   },
   "pages": {
@@ -104,7 +104,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PENDAFTARAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\">DAFTAR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/f6JXTkE487LsxmLh7\">KONFIRMASI BAYAR</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">TUJUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-c\">HADIAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-a\">SYARAT DAN KETENTUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-e\">KONTAK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PENDAFTARAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/dv3so2Bnj7epebDD6\">DAFTAR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/f6JXTkE487LsxmLh7\">KONFIRMASI BAYAR</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">TUJUAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-c\">HADIAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-d\">JURI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-a\">PERSYARATAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-n\">KEGIATAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-e\">KONTAK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -225,8 +225,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgColor": "#fff"
           },
           "title": "HADIAH",
@@ -249,8 +249,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "DENGAN &nbsp;JURI INDEPENDEN",
@@ -260,6 +260,19 @@
           ],
           "_name": "header3",
           "_anchor": "header3-d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>PERUMUSAN PENJURIAN\n</b></p><p>1.\tBentuk rumusan penjurian disusun untuk kalangan terbatas \n</p><p>2.\tTim Juri adalah <i>Tea Taster Independent</i> yang berasal dari dalam <b>Negeri dan Luar Negeri\n</b></p><p>3.\tKeputusan Tim Juri bersifat independen dan tidak dapat diganggu gugat \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m"
         },
         {
           "_inherit": "msg-box8",
@@ -423,6 +436,53 @@
           ],
           "_name": "content1",
           "_anchor": "content1-k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bs140-2000x3020.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAHAPAN KEGIATAN",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>1.\tPendaftaran Peserta dan Pengiriman Sample\t: <b>17 Sep  sd. 4 Okt 2019</b>\n</p><p>2.\tPenjurian\t\t\t\t\t\t:   <b>7 Okt  sd. 8 Okt 2019</b>\n</p><p>3.\tClosing Ceremony \t\t\t\t\t:  \n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">Direncanakan pada minggu ke-3 bulan Oktober  2019 bertempat di Bandung dengan Konten Acara sebagai berikut</span><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1).\tPameran Industri Teh ( Expo )\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2).\tLomba pembuatan Teh Tarik \n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3).\tPengumuman Pemenang National Tea Competition 2019\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4).\tPenobatan Duta Teh Indonesia\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o"
         },
         {
           "_params": {
